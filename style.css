@@ -1,0 +1,37 @@
+.heading{
+    width: 100%;
+    font-size:30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px grey;
+    margin: 0px;
+}
+
+.note{
+    margin-top: 5px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer{
+    font-weight: bold;
+    padding-top: 10px;
+    border-radius: 20px;
+    width:100%;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+canvas{
+    margin-top: 20px;
+    background-color: blanchedalmond;
+    border: gray 5px solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 8px black;
+}
+
+video{
+    margin-left: 60px;
+}
